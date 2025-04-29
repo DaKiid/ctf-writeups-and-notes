@@ -1,5 +1,6 @@
 The challenge provided an image file that contained hidden data. Here's a detailed breakdown of the solution:
 ![image.png](attachment:2e527d8b-9d16-4b1a-88b6-2af69683eded:image.png)
+
 Tool Used: Stegseek - A powerful steganography tool designed to crack steghide encrypted files
 2. Process:
     - No password was required for extraction
