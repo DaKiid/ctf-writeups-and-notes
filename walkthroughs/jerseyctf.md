@@ -36,12 +36,15 @@ This was an audio forensics challenge involving DTMF (Dual-Tone Multi-Frequency)
 ![image](https://github.com/user-attachments/assets/690fd443-a460-415b-9ec1-7e39a7141c78)
 
 Identified the encryption as ASCII text
+
 ![image](https://github.com/user-attachments/assets/3d262148-af24-4686-88ec-481ef3af2c38)
 
 Converted ASCII to binary
+
 ![image](https://github.com/user-attachments/assets/e04e39f5-5a3a-4f61-a904-003d6e32334f)
 
 Used CyberChef to convert binary to text
+
 ![image](https://github.com/user-attachments/assets/45721504-341b-4a02-b9bd-663bf26ef6ee)
 
 - Retrieved the flag from the final text output
